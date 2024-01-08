@@ -1,6 +1,6 @@
 <div align=center>
 	<img src="readme-img/cover.jpg"/>
-	<h1>FOC 双轮腿机器人项目</h1>
+	<h1>FOC 双轮腿机器人项目test</h1>
 	<p>
 		<a href="https://gitee.com/skythinker/foc-wheel-legged-robot">
 			<img src="https://gitee.com/skythinker/foc-wheel-legged-robot/badge/star.svg"/>
